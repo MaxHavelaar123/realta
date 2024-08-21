@@ -1,0 +1,45 @@
+[
+  {
+    "name": "Menu",
+    "isTitle": true
+  },
+  {
+    "name": "Dashboard",
+    "url": "index.html",
+    "icon": "grid-fill"
+  },
+  {
+    "name": "Distribution Attack",
+    "key": "attack-distribution",
+    "url": "attack-distribution.html",
+    "icon": "router-fill"
+  },
+  {
+    "name": "IP Distribution",
+    "key": "ip-distribution",
+    "icon": "router-fill",
+    "url": "ip-distribution.html"
+  },
+  {
+    "name": "Port Distribution",
+    "key": "port-distribution",
+    "icon": "router-fill",
+    "url": "port-distribution.html"
+  },
+
+  {
+    "name": "Account",
+    "key": "account",
+    "icon": "person-circle",
+    "submenu": [
+      {
+        "name": "Profile",
+        "url": "account-profile.html"
+      },
+      {
+        "name": "Log out",
+        "url": "logout.html"
+      }
+    ]
+  }
+]

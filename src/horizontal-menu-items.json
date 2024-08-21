@@ -1,0 +1,211 @@
+[
+  {
+    "name": "Dashboard",
+    "url": "index.html",
+    "icon": "grid-fill"
+  },
+
+  {
+    "name": "Table",
+    "icon": "table",
+    "submenu": [
+      {
+        "name": "Table",
+        "url": "table.html",
+        "icon": "file-earmark-spreadsheet-fill"
+      },
+      {
+        "name": "Datatable",
+        "url": "table-datatable.html",
+        "icon": "file-earmark-spreadsheet-fill"
+      },
+      {
+        "name": "Datatable (jQuery)",
+        "url": "table-datatable-jquery.html",
+        "icon": "file-earmark-spreadsheet-fill"
+      }
+    ]
+  },
+
+  {
+    "name": "Extras",
+    "key": "extras",
+    "icon": "plus-square-fill",
+    "submenu": [
+      {
+        "name": "Widgets",
+        "key": "ui-widgets",
+        "icon": "pentagon-fill",
+        "submenu": [
+          {
+            "name": "Chatbox",
+            "url": "ui-widgets-chatbox.html"
+          },
+          {
+            "name": "Pricing",
+            "url": "ui-widgets-pricing.html"
+          },
+          {
+            "name": "To-do List",
+            "url": "ui-widgets-todolist.html"
+          }
+        ]
+      },
+      {
+        "name": "Icons",
+        "key": "ui-icons",
+        "icon": "egg-fill",
+        "submenu": [
+          {
+            "name": "Bootstrap Icons ",
+            "url": "ui-icons-bootstrap-icons.html"
+          },
+          {
+            "name": "Fontawesome",
+            "url": "ui-icons-fontawesome.html"
+          },
+          {
+            "name": "Dripicons",
+            "url": "ui-icons-dripicons.html"
+          }
+        ]
+      },
+      {
+        "name": "Charts",
+        "key": "ui-chart",
+        "icon": "bar-chart-fill",
+        "submenu": [
+          {
+            "name": "ChartJS",
+            "url": "ui-chart-chartjs.html"
+          },
+          {
+            "name": "Apexcharts",
+            "url": "ui-chart-apexcharts.html"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Pages",
+    "key": "pages",
+    "icon": "file-earmark-fill",
+    "submenu": [
+      {
+        "name": "Authentication",
+        "key": "auth",
+        "icon": "person-badge-fill",
+        "submenu": [
+          {
+            "name": "Login",
+            "url": "auth-login.html"
+          },
+          {
+            "name": "Register",
+            "url": "auth-register.html"
+          },
+          {
+            "name": "Forgot Password",
+            "url": "auth-forgot-password.html"
+          }
+        ]
+      },
+      {
+        "name": "Errors",
+        "key": "error",
+        "icon": "x-octagon-fill",
+        "submenu": [
+          {
+            "name": "403",
+            "url": "error-403.html"
+          },
+          {
+            "name": "404",
+            "url": "error-404.html"
+          },
+          {
+            "name": "500",
+            "url": "error-500.html"
+          }
+        ]
+      },
+      {
+        "name": "File Uploader",
+        "key": "ui-file",
+        "icon": "cloud-arrow-up-fill",
+        "url": "ui-file-uploader.html"
+      },
+      {
+        "name": "Maps",
+        "key": "ui-map",
+        "icon": "map-fill",
+        "submenu": [
+          {
+            "name": "Google Map",
+            "url": "ui-map-google-map.html"
+          },
+          {
+            "name": "JS Vector Map",
+            "url": "ui-map-jsvectormap.html"
+          }
+        ]
+      },
+      {
+        "name": "Email Application",
+        "key": "application-email",
+        "icon": "envelope-fill",
+        "url": "application-email.html"
+      },
+      {
+        "name": "Chat Application",
+        "key": "application-chat",
+        "icon": "chat-dots-fill",
+        "url": "application-chat.html"
+      },
+      {
+        "name": "IP Distribution",
+        "key": "ip-distribution",
+        "icon": "grid-fill",
+        "url": "ip-distribution.html"
+      },
+      {
+        "name": "Port Distribution",
+        "key": "port-distribution",
+        "icon": "grid-fill",
+        "url": "port-distribution.html"
+      },
+      {
+        "name": "Dashboard",
+        "key": "dashboard",
+        "icon": "grid-fill",
+        "url": "dashboard.html"
+      }
+    ]
+  },
+  {
+    "name": "Support",
+    "key": "error",
+    "icon": "life-preserver",
+    "submenu": [
+      {
+        "name": "Documentation",
+        "key": "error",
+        "icon": "life-preserver",
+        "url": "https://zuramai.github.io/mazer/docs"
+      },
+      {
+        "name": "Contribute",
+        "key": "error",
+        "url": "https://github.com/zuramai/mazer/blob/main/CONTRIBUTING.md",
+        "icon": "puzzle"
+      },
+      {
+        "name": "Donate",
+        "key": "error",
+        "url": "https://github.com/zuramai/mazer#donation",
+        "icon": "cash"
+      }
+    ]
+  }
+]
